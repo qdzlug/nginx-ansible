@@ -1,0 +1,3 @@
+nginx.ansible.hosts
+nginx.pem
+nginx.ssh.config
